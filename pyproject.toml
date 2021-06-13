@@ -1,0 +1,9 @@
+[tool.poetry]
+authors = [""]
+description = "Battlesnake in Python"
+name = "battlesnek"
+version = "0.0.1"
+
+[tool.poetry.dependencies]
+cherrypy = "^18.6"
+python = "^3.8"

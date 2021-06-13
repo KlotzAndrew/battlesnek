@@ -1,0 +1,110 @@
+{
+  "game": {
+    "id": "0a42054b-06bd-489e-96d8-4a1dae1100b2",
+    "ruleset": {
+      "name": "standard",
+      "version": "v1.0.17"
+    },
+    "timeout": 500
+  },
+  "turn": 1,
+  "board": {
+    "height": 11,
+    "width": 11,
+    "snakes": [
+      {
+        "id": "gs_BQBDqtcJbqJVmv8vpr9G7wFF",
+        "name": "Tireless snake",
+        "latency": "348",
+        "health": 99,
+        "body": [
+          {
+            "x": 1,
+            "y": 10
+          },
+          {
+            "x": 1,
+            "y": 9
+          },
+          {
+            "x": 1,
+            "y": 9
+          }
+        ],
+        "head": {
+          "x": 1,
+          "y": 10
+        },
+        "length": 3,
+        "shout": ""
+      },
+      {
+        "id": "gs_ydrYvGq37qHXprmRGqbpxg3H",
+        "name": "MangoSnek",
+        "latency": "278",
+        "health": 99,
+        "body": [
+          {
+            "x": 4,
+            "y": 1
+          },
+          {
+            "x": 5,
+            "y": 1
+          },
+          {
+            "x": 5,
+            "y": 1
+          }
+        ],
+        "head": {
+          "x": 4,
+          "y": 1
+        },
+        "length": 3,
+        "shout": ""
+      }
+    ],
+    "food": [
+      {
+        "x": 0,
+        "y": 8
+      },
+      {
+        "x": 4,
+        "y": 2
+      },
+      {
+        "x": 5,
+        "y": 5
+      }
+    ],
+    "hazards": []
+  },
+  "you": {
+    "id": "gs_BQBDqtcJbqJVmv8vpr9G7wFF",
+    "name": "Tireless snake",
+    "latency": "348",
+    "health": 99,
+    "body": [
+      {
+        "x": 1,
+        "y": 10
+      },
+      {
+        "x": 1,
+        "y": 9
+      },
+      {
+        "x": 1,
+        "y": 9
+      }
+    ],
+    "head": {
+      "x": 1,
+      "y": 10
+    },
+    "length": 3,
+    "shout": ""
+  }
+}
